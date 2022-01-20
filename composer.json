@@ -1,0 +1,14 @@
+{
+  "name": "hectorg1/328/hello2",
+  "description": "My first MVV F3 Project",
+  "license": "open source",
+  "authors": [
+    {
+      "name": "Hector Gonzalez",
+      "email": "gonzalez.hector@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
